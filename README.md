@@ -1,1 +1,3 @@
 # Diabetic Retinopathy Detection using CNN
+
+https://storage.googleapis.com/kaggle-competitions-data/kaggle-v2/25563/2094376/bundle/archive.zip?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1688739989&Signature=b%2BXnVhil2Ot9dqv6pAQ4RiWmjcBWWGcBjIGowdieLbDfQrypHD5mNmYckB225Cfg%2FsreQAKMlMtGSDaT8jlad8yRM4ij8%2B7BIz%2BNynNCb4GO%2Fmvpb70XEcvBBdwCpeRsPtF7Zo29LuKa%2Fexf0X7w8SffzGYuydSpVYdQo1CCmMhHTPozFOglKhf3r%2Fm2D4jxaMTDJUpKswDFVakVX16ukXIyPwkZZUab%2FCaxTuh%2FMUIahHCIjm6lApcZbUCedLP9GrzX8oFF0aZ2WkIkxL%2FG0LHzRLuPLRK%2Bh4zDjnZnp1S0QhzmRhrAZr8EEgpww99kl4vIQkXKCxG6jKX4T47%2FcA%3D%3D&response-content-disposition=attachment%3B+filename%3Dplant-pathology-2021-fgvc8.zip
